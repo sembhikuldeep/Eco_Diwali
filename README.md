@@ -26,56 +26,6 @@ The project promotes **eco-friendly celebrations** by encouraging people to reus
 
 ---
 
-## 📂 Project Structure
-
-
-EcoDiwali-Waste-Advisor
-│
-├── app.py
-│
-├── templates
-│ └── index.html
-│
-└── static
-└── style.css (optional)
-
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-
-
-git clone https://github.com/yourusername/ecodiwali-waste-advisor.git
-
-
-### 2️⃣ Navigate to the project folder
-
-
-cd ecodiwali-waste-advisor
-
-
-### 3️⃣ Install Flask
-
-
-pip install flask
-
-
-### 4️⃣ Run the application
-
-
-python app.py
-
-
-### 5️⃣ Open in browser
-
-
-http://127.0.0.1:5000
-
-
----
-
 ## 🎯 Project Goal
 
 The main goal of this project is to spread awareness about **sustainable celebrations** and reduce environmental impact during festivals.
